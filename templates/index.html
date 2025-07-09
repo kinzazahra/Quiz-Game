@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Earth Through Time - Dynamic Quiz</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Earth Through Time - Dynamic Quiz</h1>
+    <button onclick="loadGeminiQuiz()">🎲 Load Gemini Quiz</button>
+    <div id="quiz-container"></div>
+    <p id="error-message" style="color: white;"></p>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
+
