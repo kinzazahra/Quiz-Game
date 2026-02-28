@@ -1,4 +1,4 @@
-   Brainy Quiz – Interactive Knowledge Challenge
+     Brainy Quiz – Interactive Knowledge Challenge
 A dynamic and engaging web-based quiz application designed to test your knowledge across various topics. This application features a modern UI with real-time feedback, category selection, and a competitive scoring system to make learning fun and interactive.
 
 Built with logic and fun by Kinza Zahra 🧠✨
