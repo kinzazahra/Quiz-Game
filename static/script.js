@@ -24,3 +24,6 @@ async function loadGeminiQuiz() {
         console.error("❌ Fetch error:", e);
     }
 }
+
+
+
