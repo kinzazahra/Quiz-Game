@@ -4,8 +4,6 @@
 
 A dynamic and engaging web-based quiz application designed to test your knowledge across various topics. This app combines logic, fun, and a modern user experience to make learning interactive and competitive.
 
-**Built with ❤️ by Kinza Zahra 🧠✨**
-
 ---
 
 ## 🚀 Features
