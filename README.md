@@ -1,81 +1,110 @@
-     Brainy Quiz – Interactive Knowledge Challenge
-A dynamic and engaging web-based quiz application designed to test your knowledge across various topics. This application features a modern UI with real-time feedback, category selection, and a competitive scoring system to make learning fun and interactive.
+---
 
-Built with logic and fun by Kinza Zahra 🧠✨
+# 🧠 Brainy Quiz – Interactive Knowledge Challenge
 
-Features
-Category-Based Quizzes: Choose from a variety of topics including Science, History, Geography, and General Knowledge to tailor your challenge.
+A dynamic and engaging web-based quiz application designed to test your knowledge across various topics. This app combines logic, fun, and a modern user experience to make learning interactive and competitive.
 
-Interactive UI:
+**Built with ❤️ by Kinza Zahra 🧠✨**
 
-Progress Tracking: A visual progress bar that updates as you move through the questions.
+---
 
-Timed Questions: Challenge yourself with a countdown timer for each question to keep the game exciting.
+## 🚀 Features
 
-Instant Feedback: Correct answers are highlighted in green, while incorrect choices are marked in red with the correct one revealed.
+### 🎯 Category-Based Quizzes
+Choose from multiple topics such as:
+- Science  
+- History  
+- Geography  
+- General Knowledge  
 
-Dynamic Scoreboard:
+---
 
-Calculates your final score based on accuracy and speed.
+### 🎨 Interactive UI
+- **Progress Tracking:** Visual progress bar updates as you advance  
+- **Timed Questions:** Countdown timer adds excitement and challenge  
+- **Instant Feedback:**  
+  - ✅ Correct answers highlighted in green  
+  - ❌ Incorrect answers marked in red with correct answer revealed  
 
-Displays a summary card at the end of the session with performance insights.
+---
 
-Responsive Design: A clean, mobile-first interface featuring smooth transitions and glassmorphism effects for a premium look and feel.
+### 🏆 Dynamic Scoreboard
+- Calculates score based on **accuracy + speed**  
+- Displays a **final summary card** with performance insights  
 
-Backend Powered: Uses a Python Flask backend to manage quiz data and ensure randomized question delivery for every session.
+---
 
-🛠 Tech Stack
-Frontend: HTML5, CSS3 (Modern Flexbox/Grid), Vanilla JavaScript.
+### 📱 Responsive Design
+- Mobile-first layout  
+- Smooth animations and transitions  
+- Modern **glassmorphism UI effects**  
 
-Backend: Python (Flask Framework).
+---
 
-Data Management: JSON-based question bank for easy content updates.
+### ⚙️ Backend Powered
+- Built with **Python Flask**  
+- Ensures **randomized question delivery** for every session  
 
-Styling: Custom CSS with animated backgrounds and interactive button effects.
+---
 
-📂 Project Structure
-Plaintext
+## 🛠 Tech Stack
+
+- **Frontend:** HTML5, CSS3 (Flexbox & Grid), Vanilla JavaScript  
+- **Backend:** Python (Flask Framework)  
+- **Data Management:** JSON-based question bank  
+- **Styling:** Custom CSS with animations and interactive effects  
+
+---
+
+## 📂 Project Structure
+
+
 Quiz-Game/
 │
-├── app.py              # Main Flask server and quiz logic
+├── app.py # Main Flask server and quiz logic
 │
-├── static/             # Frontend assets
-│   ├── styles.css      # Custom UI styling and animations
-│   └── script.js       # Game logic, timers, and scoring
+├── static/ # Frontend assets
+│ ├── styles.css # UI styling and animations
+│ └── script.js # Game logic, timers, scoring
 │
-└── templates/          # HTML Views
-    └── index.html      # The main quiz interface
-⚙️ Installation & Setup
-Clone the Repository:
+└── templates/ # HTML views
+└── index.html # Main quiz interface
 
-Bash
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
 git clone <your-repo-url>
 cd Quiz-Game
-Install Dependencies:
-Ensure you have Python installed, then install Flask:
+2️⃣ Install Dependencies
 
-Bash
+Make sure Python is installed, then run:
+
 pip install Flask
-Run the Application:
-
-Bash
+3️⃣ Run the Application
 python app.py
-Open your browser and navigate to http://127.0.0.1:5000 to start playing!
+4️⃣ Open in Browser
 
-🚀 How to Play
-Pick a Topic: Select your preferred category from the home screen.
+Visit:
 
-Answer Questions: Read the question and click on the best option before the timer runs out.
-
-Check Results: After the final question, review your total score and see if you reached the "High Score" status.
-
-Play Again: Click the restart button to try a different category or beat your previous record!
-
+http://127.0.0.1:5000
+🎮 How to Play
+Pick a Topic
+Select your preferred quiz category
+Answer Questions
+Choose the correct option before time runs out
+View Results
+Check your score and performance summary
+Play Again
+Retry to beat your high score or try a new category
 🔮 Future Improvements
-Leaderboard integration to compete with friends.
+🥇 Leaderboard system for global competition
+🖼️ Support for image-based questions
+🔊 Audio-based quiz support
+✍️ User-generated quiz creation and sharing
+💖 Author
 
-Support for image-based and audio-based questions.
-
-Ability for users to create and share their own custom quiz sets.
-
-Made with ❤️ by Kinza Zahra
+Made with love by Kinza Zahra
