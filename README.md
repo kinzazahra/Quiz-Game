@@ -56,6 +56,8 @@ Choose from multiple topics such as:
 
 ---
 
+---
+
 ## 📂 Project Structure
 
 
@@ -92,14 +94,22 @@ Visit:
 
 http://127.0.0.1:5000
 🎮 How to Play
-Pick a Topic
+🎯 Pick a Topic
+
 Select your preferred quiz category
-Answer Questions
+
+❓ Answer Questions
+
 Choose the correct option before time runs out
-View Results
+
+📊 View Results
+
 Check your score and performance summary
-Play Again
+
+🔁 Play Again
+
 Retry to beat your high score or try a new category
+
 🔮 Future Improvements
 🥇 Leaderboard system for global competition
 🖼️ Support for image-based questions
@@ -107,4 +117,4 @@ Retry to beat your high score or try a new category
 ✍️ User-generated quiz creation and sharing
 💖 Author
 
-Made with love by Kinza Zahra
+Made with ❤️ by Kinza Zahra
