@@ -116,3 +116,4 @@ Retry to beat your high score or try a new category
 💖 Author
 
 Made with ❤️ by Kinza Zahra
+
